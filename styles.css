@@ -1,5 +1,5 @@
 header{
-	height: 100px;
+	height: 120px;
 	background-color:pink;
 }
 header section.upper-block{
@@ -8,3 +8,6 @@ header section.upper-block{
 header nav{
 	height: 20px;
 }
+	header nav div{
+		display:inline-block;
+	}
