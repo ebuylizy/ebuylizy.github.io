@@ -1,9 +1,12 @@
+body{
+	max-width:1200px;
+}
 header{
-	height: 125px;
+	height: 200px;
 	background-color:pink;
 }
 header section.upper-block{
-	height:100px;
+	height:175px;
 }
 header nav{
     height: 25px;
