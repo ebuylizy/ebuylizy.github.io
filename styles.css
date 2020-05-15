@@ -2,3 +2,9 @@ header{
 	height: 100px;
 	background-color:pink;
 }
+header section.upper-block{
+	height:100px;
+}
+header nav{
+	height: 20px;
+}
