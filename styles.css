@@ -10,7 +10,9 @@ header{
 		height:175px;
 	}
 		header .logo{
-			background-image: url('/sunchai.png');
+			background-image: url('sunchai.png');
+			background-repeat: no-repeat;
+			background-position: left;
 		}
 	header nav{
 	    height: 36px;
