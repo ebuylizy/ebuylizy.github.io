@@ -24,7 +24,7 @@ header{
 	    height: 36px;
 	    padding: 0 0 0 35%;
 	    background-color: rgb(45,45,45);
-	    /* opacity: 0.7; */
+	    opacity: 0.7;
 	    /* color: white; */
 	    position: relative;
 	    z-index: -5;
