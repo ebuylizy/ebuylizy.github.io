@@ -4,31 +4,28 @@ body{
 	background-color:snow;
 }
 header{
-	background-color:pink;
 }
 	header section.upper-block{
 		height:175px;
 	}
 		header .logo{
-			background-image: url('sunchai.png');
-			background-repeat: no-repeat;
-			background-position: left;
+			background-image: url(sunchai.png);
+		    background-repeat: no-repeat;
+		    background-position: 30px -15px;
+		    height: 235px;
+		    background-size: contain;
 		}
 	header nav{
 	    height: 36px;
-	    /* float: right; */
 	    padding: 0 0 0 20%;
-	    /* width: 100%; */
 	    background-color: gray;
 	}
 		header nav div{
 		    display: inline-block;
-		    /* float: right; */
 		    height: 20px;
 		    width: 120px;
 		    font-size: 22px;
 		    margin: 3px 10px;
-		    /* float: inherit; */
 		    text-align: center;
 		}
 		header nav a{
