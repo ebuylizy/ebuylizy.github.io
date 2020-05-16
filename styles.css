@@ -7,32 +7,41 @@ body{
 header{
 }
 	header section.upper-block{
-		height:175px;
+	    height: 175px;
+	    z-index: 50;
 	}
 		header .logo{
 		    background-image: url(sunchai.png);
 		    background-repeat: no-repeat;
-		    background-position: 30px -20px;
-		    height: 245px;
+		    background-position: 30px -30px;
 		    background-size: contain;
+		    height: 245px;
+		    /* width: 500px; */
+		    background-size: 33%;
+		    position: static;
 		}
 	header nav{
-		height: 30px;
-    	padding: 0 0 0 30%;
-    	background-color: gray;
-    	opacity: 0.7;
+	    height: 36px;
+	    padding: 0 0 0 35%;
+	    background-color: rgb(45,45,45);
+	    /* opacity: 0.7; */
+	    /* color: white; */
+	    position: relative;
+	    z-index: -5;
+	    background-color: black;
 	}
 		header nav div{
 		    display: inline-block;
 		    height: 20px;
 		    width: 120px;
 		    font-size: 20px;
-		    margin: 3px 10px;
+		    margin: 8px 10px;
+		    /* color: wheat; */
 		    text-align: center;
 		}
 		header nav a{
-			text-decoration: none;
-			color:black;
+		    text-decoration: none;
+		    color: white;
 		}
 main {
 	background-color:dimgray;
