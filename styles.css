@@ -29,7 +29,9 @@ header{
 	    /* color: white; */
 	    position: relative;
 	    z-index: -5;
-	    background-color: black;
+	    background-image: url(navbar.png);
+	    background-repeat: no-repeat;
+	    background-size: contain;
 	}
 		header nav div{
 		    display: inline-block;
