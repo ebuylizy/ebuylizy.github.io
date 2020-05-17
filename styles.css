@@ -17,9 +17,7 @@ header{
 		    background-image: url(sunchai.png);
 		    background-repeat: no-repeat;
 		    background-position: 30px -30px;
-		    background-size: contain;
 		    height: 245px;
-		    /* width: 500px; */
 		    background-size: 33%;
 		    position: static;
 		}
