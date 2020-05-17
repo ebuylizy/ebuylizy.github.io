@@ -47,6 +47,6 @@ header{
 		    color: white;
 		}
 main {
-	background-color:dimgray;
+	background-color:rgba(128,121,111,1);
 	height: 1000px;
 }
