@@ -8,9 +8,8 @@ header{
 }
 	header section.upper-block{
 	    height: 224px;
-	    background-image: url(chaye.jpg);
+	    background-image: url(headerFrm.png);
 	    background-repeat: no-repeat;
-	    background-position: right;
 	    background-size:contain;
 	}
 		header .logo{
