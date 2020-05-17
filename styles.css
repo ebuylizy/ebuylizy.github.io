@@ -16,9 +16,9 @@ header{
 		header .logo{
 		    background-image: url(sunchai.png);
 		    background-repeat: no-repeat;
-		    background-position: 30px -30px;
-		    height: 245px;
-		    background-size: 33%;
+		    background-position: -76px -26px;
+		    height: 325px;
+		    /* background-size: 33%; */
 		    position: static;
 		}
 	header nav{
