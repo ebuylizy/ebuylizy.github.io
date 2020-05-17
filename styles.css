@@ -36,6 +36,9 @@ header{
 	    position: relative;
 	    z-index: 99;
 	}
+		header nav .navcolor{
+			width:500px;
+		}
 		header nav div{
 		    display: inline-block;
 		    height: 20px;
