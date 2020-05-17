@@ -5,18 +5,24 @@ body{
 	background-color:snow;
 }
 header{
+		background-image: url(headerFrm.png);
+	    background-repeat: no-repeat;
 }
 	header section.upper-block{
 	    height: 224px;
-	    background-image: url(headerFrm.png);
-	    background-repeat: no-repeat;
 	}
 		header .logo{
-		    background-image: url(sunchai.png);
+		    background-image: url(logo.png);
 		    background-repeat: no-repeat;
 		    background-position: -76px -26px;
 		    height: 325px;
 		    position: static;
+		}
+		header .logoName {
+			background-image: url(sunchai.png);
+			background-repeat: no-repeat;
+		    background-position: 0px 0px;
+		    height: 325px;
 		}
 	header nav{
 	    height: 50px;
@@ -26,9 +32,6 @@ header{
 	    /* color: white; */
 	    position: relative;
 	    z-index: -5;
-	    background-image: url(navbar.png);
-	    background-repeat: no-repeat;
-	    background-size: contain;
 	}
 		header nav div{
 		    display: inline-block;
