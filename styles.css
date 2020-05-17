@@ -8,7 +8,10 @@ header{
 }
 	header section.upper-block{
 	    height: 175px;
-	    z-index: 50;
+	    background-image: url(chaye.jpg);
+	    background-repeat: no-repeat;
+	    background-position: right;
+	    background-size:contain;
 	}
 		header .logo{
 		    background-image: url(sunchai.png);
