@@ -15,21 +15,22 @@ header{
 		    top: -26px;
 		    left: -76px;
 		    height: 325px;
-		    position: absolute;
+		    position: relative;
 		    z-index: 100;
 		}
 		header .logoName {
-			background-image: url(sunchai.png);
+		    background-image: url(sunchai.png);
 		    background-repeat: no-repeat;
 		    height: 325px;
 		    width: 325px;
 		    z-index: 98;
-		    position: absolute;
-		    top: -26px;
-		    left: 120px;
+		    position: relative;
+		    top: -356px;
+		    left: 118px;
 		}
 	header .navcolor{
 	    width: 100%;
+	    max-width: 1440px;
 	    height: 50px;
 	    position: absolute;
 	    background-color: rgb(38,33,31);
@@ -55,6 +56,5 @@ header{
 		    color: rgb(128,121,111);
 		}
 main {
-	background-color:rgba(128,121,111,1);
 	height: 1000px;
 }
