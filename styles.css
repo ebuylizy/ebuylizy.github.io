@@ -83,7 +83,7 @@ main {
 		    width: 164px;
 		    height: 44px;
 		    background: #595959;
-		    border: 1px solid #FFFFFF;
+		    border: 1px solid gray;
 		    box-sizing: border-box;
 		    border-radius: 12px 12px 0px 0px;
 		    position: relative;
