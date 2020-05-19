@@ -122,7 +122,9 @@ main {
 		div.hill:nth-child(2n+0){
 			background:rgb(63,56,36);
 		}
-		
+		div.hill:nth-child(2n+0){
+			background:rgb(47,47,47);
+		}
 
 
 
