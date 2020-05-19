@@ -116,13 +116,13 @@ main {
 		div.hill{
 			height: 600px
 		}
-		div.hill:nth-child(1n+0){
+		div.hill:nth-child(1){
 			background:rgb(38,33,31);
 		}
-		div.hill:nth-child(2n+0){
+		div.hill:nth-child(2){
 			background:rgb(63,56,36);
 		}
-		div.hill:nth-child(3n+0){
+		div.hill:nth-child(3){
 			background:rgb(47,47,47);
 		}
 
