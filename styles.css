@@ -119,7 +119,7 @@ main {
 		div.hill:nth-child(2n+0){
 			background:rgb(38,33,31);
 		}
-		div.hill:nth-child(2n+1){
+		div.hill:nth-child(3n+0){
 			background:rgb(63,56,36);
 		}
 
