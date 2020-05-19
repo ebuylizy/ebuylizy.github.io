@@ -86,6 +86,7 @@ main {
 			width:330px;
 			background: #26211F;
 			box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4);
+			float: left;
 		}
 
 
