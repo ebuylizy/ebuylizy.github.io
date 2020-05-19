@@ -31,7 +31,7 @@ header{
 	    background-color: rgb(38,33,31);
 	    opacity: 0.6;
 	    position: relative;
-	    z-index: 99;
+	    z-index: 101;
 	}
 		header nav div{
 		    display: inline-block;
