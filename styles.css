@@ -116,6 +116,9 @@ main {
 		div.hill{
 			height: 600px
 		}
+		div.hill:nth-child(2n+0){
+			background:rgb(38,33,31);
+		}
 
 
 
