@@ -108,8 +108,14 @@ main {
 		    top: -20px;
 		    margin: 0 0 0 22px;
 		}
-
-
+	div.teaMap{
+		height: 180px;
+	}
+	div.locations{
+	}
+		div.hill{
+			height: 600px
+		}
 
 
 
