@@ -12,21 +12,11 @@ header{
 	    height: 224px;
 	}
 		header #logo{
-		    top: -26px;
-		    left: -76px;
-		    height: 325px;
+		    top: 0;
+		    left: 0;
+		    height: 274px;
 		    position: relative;
 		    z-index: 100;
-		}
-		header .logoName {
-		    background-image: url(sunchai.png);
-		    background-repeat: no-repeat;
-		    height: 325px;
-		    width: 325px;
-		    z-index: 98;
-		    position: relative;
-		    top: -356px;
-		    left: 118px;
 		}
 	header .navcolor{
 	    width: 100%;
