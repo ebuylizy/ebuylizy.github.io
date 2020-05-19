@@ -7,7 +7,7 @@ body{
 header{
 		background-image: url(headerFrm.png);
 	    background-repeat: no-repeat;
-	    border-bottom: 1px white solid;
+	    border-bottom: 1px rgb(231,231,231) solid;
 }
 	header section.upper-block{
 	    height: 224px;
