@@ -61,6 +61,7 @@ main {
 			font-size: 30px;
 			line-height: 54px;
 			color: white;
+			float:left;
 		}
 		div.advantage{
 			width:200px;
@@ -70,6 +71,7 @@ main {
 			box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.75);
 			border-radius: 100px;
     		float: left;
+    		margin: 35px;
 		}
 	div.articles {
 		background-color:rgb(89,89,89);
