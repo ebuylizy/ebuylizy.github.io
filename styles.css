@@ -46,7 +46,8 @@ header{
 				margin-top: 15px;
 			}
 			div.shopBtn{
-
+				background: rgba(134,93,62,0.7);
+				color:white;
 			}
 	header .navcolor{
 	    width: 100%;
