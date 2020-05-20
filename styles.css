@@ -4,8 +4,7 @@
 }
 
 body{
-	max-width:1440px;
-	min-width:1200px;
+	width:1440px;
 	margin:0 auto;
 	background-color:#0e0e0e;
 	font-family: noto-serif;
