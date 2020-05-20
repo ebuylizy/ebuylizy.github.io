@@ -36,6 +36,10 @@ header{
     		font-size: 25px;
     		color:white;
 		}
+			div.icons{
+				background-image: url(social.png);
+				background-repeat: no-repeat;
+			}
 	header .navcolor{
 	    width: 100%;
 	    max-width: 1440px;
