@@ -91,7 +91,7 @@ header{
 		}
 main {
 	height: 1000px;
-	background-color:rgb(231,231,231);
+	background-color:gray;
 }
 	div.advantages {
 		height:270px;
