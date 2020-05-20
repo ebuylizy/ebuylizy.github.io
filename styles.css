@@ -38,12 +38,16 @@ header{
 		    line-height: 1.7;
 		    margin: 20px 0 0 0;
 		}
+			.contacts span{
+				float:right;
+			}
 			div.icons{
 				background-image: url(social.png);
 				background-repeat: no-repeat;
 				width:80px;
 				height: 30px;
 				margin-top: 10px;
+				float:right;
 			}
 			div.shopBtn{
 				background: rgba(134,93,62,0.7);
@@ -53,6 +57,7 @@ header{
 			    border-radius: 10px 0 0 10px;
 			    margin: 10px 0 0 0;
 			    padding: 0 0 0 60px;
+			    float:right;
 			}
 	header .navcolor{
 	    width: 100%;
