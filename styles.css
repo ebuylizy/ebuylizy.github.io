@@ -36,7 +36,7 @@ header{
 		    font-size: 25px;
 		    color: white;
 		    line-height: 1.7;
-		    margin: 50px 25px 0 0;
+		    margin: 20px 20px 0 0;
 		}
 			div.icons{
 				background-image: url(social.png);
@@ -46,7 +46,7 @@ header{
 				margin-top: 15px;
 			}
 			div.shopBtn{
-				
+
 			}
 	header .navcolor{
 	    width: 100%;
