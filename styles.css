@@ -62,8 +62,7 @@ header{
 			    float:right;
 			}
 	header .navcolor{
-	    width: 100%;
-	    max-width: 1440px;
+		width: 1440px;
 	    height: 50px;
 	    position: absolute;
 	    background-color: rgb(38,33,31);
