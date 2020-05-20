@@ -116,6 +116,8 @@ main {
 		}
 	div.teaMap{
 		height: 180px;
+		background-image: url("teamap");
+		background-repeat: no-repeat;
 	}
 	div.locations{
 	}
