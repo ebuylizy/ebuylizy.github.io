@@ -39,6 +39,8 @@ header{
 			div.icons{
 				background-image: url(social.png);
 				background-repeat: no-repeat;
+				width:80px;
+				height: 30px;
 			}
 	header .navcolor{
 	    width: 100%;
