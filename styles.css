@@ -18,7 +18,7 @@ body{
 header{
 		background-image: url(headerFrm.png);
 	    background-repeat: no-repeat;
-	    border-bottom: 1px rgb(231,231,231) solid;
+	    border-bottom: 1px gray solid;
 }
 	header section.upper-block{
 	    height: 224px;
