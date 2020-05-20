@@ -43,7 +43,7 @@ header{
 				background-repeat: no-repeat;
 				width:80px;
 				height: 30px;
-				margin-top: 15px;
+				margin-top: 10px;
 			}
 			div.shopBtn{
 				background: rgba(134,93,62,0.7);
@@ -51,7 +51,7 @@ header{
 				font-family: philosopher;
 				font-size:30px;
 			    border-radius: 10px 0 0 10px;
-			    margin: 10px 0 0 35px;
+			    margin: 10px 0 0 0;
 			    padding: 2px 0 2px 30px;
 			}
 	header .navcolor{
