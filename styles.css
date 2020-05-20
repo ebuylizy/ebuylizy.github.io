@@ -35,11 +35,12 @@ header{
 		    width: 260px;
 		    font-size: 25px;
 		    color: white;
-		    line-height: 1.7;
+		    line-height: 1.5;
 		    margin: 20px 0 0 0;
 		}
 			.contacts span{
 				float:right;
+				margin-right: 10px;
 			}
 			div.icons{
 				background-image: url(social.png);
@@ -47,6 +48,7 @@ header{
 				width:80px;
 				height: 30px;
 				margin-top: 10px;
+				margin-right: 10px;
 				float:right;
 			}
 			div.shopBtn{
@@ -56,7 +58,7 @@ header{
 				font-size:30px;
 			    border-radius: 10px 0 0 10px;
 			    margin: 10px 0 0 0;
-			    padding: 0 0 0 60px;
+			    padding: 0 10px 0 60px;
 			    float:right;
 			}
 	header .navcolor{
