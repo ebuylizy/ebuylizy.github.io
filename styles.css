@@ -13,6 +13,7 @@ body{
 	margin:0 auto;
 	background-color:#0e0e0e;
 	font-family: 'noto serif jp';
+	font-weight: 200;
 }
 header{
 		background-image: url(headerFrm.png);
@@ -34,9 +35,10 @@ header{
 		    height: 100px;
 		    width: 260px;
 		    font-size: 25px;
-		    color: white;
+		    color: rgb(245, 235, 223);
 		    line-height: 1.5;
 		    margin: 20px 0 0 0;
+		    font-weight: 900;
 		}
 			.contacts span{
 				float:right;
@@ -53,7 +55,7 @@ header{
 			}
 			div.shopBtn{
 				background: rgba(134,93,62,0.7);
-				color:white;
+				color:rgb(245, 235, 223);
 				font-family: philosopher;
 				font-size:30px;
 			    border-radius: 10px 0 0 10px;
