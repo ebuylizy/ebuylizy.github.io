@@ -3,6 +3,10 @@
   src: url(NotoSerif-Regular.ttf);
 }
 
+@font-face {
+  font-family: 'philosopher';
+  src: url(Philosopher-Regular.ttf);
+}
 body{
 	width:1440px;
 	margin:0 auto;
@@ -61,7 +65,7 @@ main {
 		margin-top: 1px;
 	}
 		div.advantagesWord{
-			font-family: Philosopher;
+			font-family: philosopher;
 			font-style: normal;
 			font-weight: normal;
 			padding: 65px 0 0 35px;
