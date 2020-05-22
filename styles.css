@@ -86,7 +86,7 @@ header{
 		    text-align: center;
 		}
 		header nav div:hover{
-			color:: rgb(245, 235, 223);
+			color:rgb(245, 235, 223);
 		}
 		header nav a{
 		    text-decoration: none;
