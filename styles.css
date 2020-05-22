@@ -199,10 +199,10 @@ main {
 		    background-repeat: no-repeat;
 		}
 			div.article span{
-				color: rgb(188,181,171);
-			    padding: 40% 0 0 0;
+			    color: rgb(188,181,171);
+			    padding: 40% 0 0 20px;
 			    display: block;
-			    font-size: 25px;
+			    font-size: 24px;
 			}
 	div.teaMap{
 		height: 178px;
