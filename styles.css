@@ -78,11 +78,11 @@ header{
 	    z-index: 101;
 	}
 		header nav div{
-			display: inline-block;
+		    display: inline-block;
 		    height: 50px;
-		    width: 120px;
+		    width: 150px;
 		    font-size: 25px;
-		    margin: 0 45px 0 60px;
+		    margin: 0 40px;
 		    text-align: center;
 		}
 		header nav a{
