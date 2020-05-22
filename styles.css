@@ -222,6 +222,10 @@ main {
 			    padding: 3px 10px;
 			    border-radius: 15px;
 			}
+			div.article span.time:hover{
+				background:rgb(245, 235, 223);
+				color:rgb(63,56,36);
+			}
 	div.teaMap{
 		height: 178px;
 		margin-top:1px;
