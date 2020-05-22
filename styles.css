@@ -38,15 +38,15 @@ header{
 		    float: right;
 		    height: 100px;
 		    width: 260px;
-		    font-size: 25px;
-		    color: rgb(245, 235, 223);
 		    line-height: 1.5;
 		    margin: 20px 0 0 0;
-		    font-weight: 900;
 		}
 			.contacts span{
 				float:right;
 				margin-right: 10px;
+				font-size: 25px;
+		    	color: rgb(245, 235, 223);
+		    	font-weight: 900;
 			}
 			div.icons{
 				background-image: url(social.png);
