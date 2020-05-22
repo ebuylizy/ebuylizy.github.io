@@ -154,6 +154,9 @@ main {
     		background-position: center;
     		text-align: center;
 		}
+		div.advantage:hover .fogging{
+			display:block;
+		}
 		div.advantage span{
 			color:rgb(188,181,171);
 			font-size:25px;
