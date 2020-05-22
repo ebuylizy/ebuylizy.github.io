@@ -10,7 +10,6 @@
 }*/
 a{
 	text-decoration: none;
-	color:black;
 }
 
 body{
@@ -60,7 +59,6 @@ header{
 			}
 			div.shopBtn{
 				background: rgba(134,93,62,0.7);
-				color:rgb(245, 235, 223);
 				font-family: philosopher;
 				font-size:30px;
 			    border-radius: 10px 0 0 10px;
@@ -68,8 +66,13 @@ header{
 			    padding: 0 10px 0 60px;
 			    float:right;
 			}
+				div.shopBtn a{
+					color:rgb(245, 235, 223);
+				}
 			div.shopBtn:hover{
 				background:rgb(245, 235, 223);
+			}
+			div.shopBtn:hover a{
 				color:rgb(38,33,31);
 			}
 	header .navcolor{
