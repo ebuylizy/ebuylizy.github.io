@@ -148,10 +148,11 @@ main {
     		background-image: url(advantage1photo.png);
     		background-repeat: no-repeat;
     		background-position: center;
+    		text-align: center;
 		}
 		div.advantage span{
-			color:color:rgb(188,181,171);
-			font-size:30px;
+			color:rgb(188,181,171);
+			font-size:25px;
 		}
 	div.articles {
 		background-color:rgb(89,89,89);
