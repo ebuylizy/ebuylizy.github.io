@@ -114,6 +114,12 @@ main {
 	height: 1000px;
 	background-color:gray;
 }
+	div.fogging{
+		background: pink;
+    	margin: 50% 0 0 0;
+    	height: 50%;
+    	border-radius: 0 0 100px 100px;
+	}
 	div.advantages {
 		height:270px;
 		background-color: rgb(38,33,31);
