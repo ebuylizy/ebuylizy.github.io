@@ -78,16 +78,18 @@ header{
 	    z-index: 101;
 	}
 		header nav div{
-		    display: inline-block;
-		    height: 20px;
+			display: inline-block;
+		    height: 50px;
 		    width: 120px;
 		    font-size: 25px;
-    		margin: 4px 45px 0 60px;
+		    margin: 0 45px 0 60px;
 		    text-align: center;
 		}
 		header nav a{
 		    text-decoration: none;
+		    padding: 10px 0 0 0;
 		    color: rgb(188,181,171);
+		    display: block;
 		}
 		header nav a:hover{
 			color:rgb(245, 235, 223)
