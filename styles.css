@@ -85,6 +85,9 @@ header{
 		    margin: 0 40px;
 		    text-align: center;
 		}
+		header nav div:hover{
+			background: rgb(188,181,171);
+		}
 		header nav a{
 		    text-decoration: none;
 		    padding: 10px 0 0 0;
