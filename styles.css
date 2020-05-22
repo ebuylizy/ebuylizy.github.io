@@ -8,6 +8,11 @@
   font-family: 'philosopher';
   src: url(Philosopher-Regular.ttf);
 }*/
+a{
+	text-decoration: none;
+	color:black;
+}
+
 body{
 	width:1440px;
 	margin:0 auto;
