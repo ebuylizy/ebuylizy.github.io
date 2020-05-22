@@ -91,10 +91,9 @@ header{
 		}
 		header nav div:hover{
 			border-bottom: solid 2px rgb(245, 235, 223);
-			color:rgb(245, 235, 223);
 		}
 		header nav div:hover a {
-			/*color:rgb(245, 235, 223);*/
+			color:rgb(245, 235, 223);
 		}
 		header nav a{
 		    text-decoration: none;
