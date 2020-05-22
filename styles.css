@@ -195,8 +195,9 @@ main {
 		    top: -20px;
 		    margin: 0 0 0 22px;
 		    background-image: url(/photos/article1.png);
+		    background-position: 0 3px;
 		    background-repeat: no-repeat;
-		    
+
 		}
 	div.teaMap{
 		height: 178px;
