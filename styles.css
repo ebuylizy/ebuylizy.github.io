@@ -87,7 +87,6 @@ header{
 		}
 		header nav div:hover a {
 			color:rgb(245, 235, 223);
-			text-decoration: underline;
 		}
 		header nav a{
 		    text-decoration: none;
