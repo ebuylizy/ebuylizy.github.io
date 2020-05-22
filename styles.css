@@ -12,7 +12,7 @@ body{
 	width:1440px;
 	margin:0 auto;
 	background-color:#0e0e0e;
-	font-family: 'serif';
+	font-family: "Palatino Linotype",'serif';
 	font-weight: 200;
 }
 header{
@@ -81,7 +81,7 @@ header{
 		    display: inline-block;
 		    height: 50px;
 		    width: 150px;
-		    font-size: 25px;
+		    font-size: 24px;
 		    margin: 0 40px;
 		    text-align: center;
 		}
@@ -91,7 +91,7 @@ header{
 		}
 		header nav a{
 		    text-decoration: none;
-		    padding: 10px 0 0 0;
+		    padding: 11px 0 0 0;
 		    color: rgb(188,181,171);
 		    display: block;
 		}
