@@ -197,8 +197,11 @@ main {
 		    background-image: url(/photos/article1.png);
 		    background-position: 0 3px;
 		    background-repeat: no-repeat;
-
 		}
+			div.article span{
+				color:rgb(188,181,171);
+				
+			}
 	div.teaMap{
 		height: 178px;
 		margin-top:1px;
