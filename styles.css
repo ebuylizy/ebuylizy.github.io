@@ -213,6 +213,10 @@ main {
 			}
 			div.article span.time{
 				color:black;
+				position: relative;
+				top:20px;
+				right:15px;
+				font-size:22px;
 			}
 	div.teaMap{
 		height: 178px;
