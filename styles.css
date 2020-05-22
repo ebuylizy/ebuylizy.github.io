@@ -144,6 +144,8 @@ main {
 			border-radius: 100px;
     		float: left;
     		margin: 35px 40px;
+    		background-image: url(advantage1photo.png);
+    		background-repeat: no-repeat;
 		}
 	div.articles {
 		background-color:rgb(89,89,89);
