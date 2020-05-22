@@ -149,7 +149,7 @@ main {
 			border-radius: 100px;
     		float: left;
     		margin: 35px 40px;
-    		background-image: url(advantage1photo.png);
+    		background-image: url(/photos/advantage1photo.png);
     		background-repeat: no-repeat;
     		background-position: -12px -8px;
     		text-align: center;
@@ -194,6 +194,9 @@ main {
 			position: relative;
 		    top: -20px;
 		    margin: 0 0 0 22px;
+		    background-image: url(/photos/article1.png);
+		    background-repeat: no-repeat;
+		    
 		}
 	div.teaMap{
 		height: 178px;
