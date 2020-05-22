@@ -120,11 +120,15 @@ main {
     	margin: 50% 0 0 0;
     	height: 50%;
     	border-radius: 0 0 100px 100px;
+    	display: none;
 	}
 	div.advantages {
 		height:270px;
 		background-color: rgb(38,33,31);
 		margin-top: 1px;
+	}
+	div.advantage a{
+		display:block;
 	}
 		div.advantagesWord{
 			font-family: philosopher;
