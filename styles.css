@@ -202,10 +202,11 @@ main {
 			div.article:hover{
 				opacity:1;
 			}
+			div.article div{
+				padding: 40% 0 0 20px;
+			}
 			div.article span{
 			    color: rgb(188,181,171);
-			    padding: 40% 0 0 20px;
-			    display: block;
 			    font-size: 24px;
 			}
 	div.teaMap{
