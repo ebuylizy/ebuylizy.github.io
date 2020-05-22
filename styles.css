@@ -212,11 +212,15 @@ main {
 			    font-size:22px;
 			}
 			div.article span.time{
-				color:black;
-				position: relative;
-				top:20px;
-				right:15px;
-				font-size:22px;
+				position: absolute;
+			    top: 20px;
+			    right: 15px;
+			    font-size: 16px;
+			    display: block;
+			    background: #26211F;
+			    color: rgb(188,181,171);
+			    padding: 3px 10px;
+			    border-radius: 15px;
 			}
 	div.teaMap{
 		height: 178px;
