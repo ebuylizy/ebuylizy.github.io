@@ -224,6 +224,11 @@ main {
 		    padding: 15px 0 15px 35px;
 		    font-family: philosopher;
 		}
+		div.teaMap div{
+			color: rgb(188,181,171);
+    		font-size: 20px;
+    		padding: 0 25% 0 22%;
+		}
 	div.locations{
 	}
 		div.hill{
