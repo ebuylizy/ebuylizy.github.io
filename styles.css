@@ -197,15 +197,9 @@ main {
 		    background-position: 0 3px;
 		    background-repeat: no-repeat;
 		}
-			div.article:hover{
-				border: solid 1px rgb(245, 235, 223);
-			}
-			div.article:hover span{
-				olor:rgb(63,56,36);
-			}
 			div.article div{
-			    margin: 120px 0 0 0;
-			    height: 60px;
+				height: 120px;
+    			background: rgba(0,0,0,0.3);
 			}
 			div.article span{
 			    color: rgb(188,181,171);
