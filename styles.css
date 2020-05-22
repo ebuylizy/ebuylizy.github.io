@@ -202,7 +202,8 @@ main {
 				background:pink;
 			}
 			div.article div{
-				padding: 40% 0 0 20px;
+			    margin: 120px 0 0 0;
+			    height: 60px;
 			}
 			div.article span{
 			    color: rgb(188,181,171);
