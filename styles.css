@@ -139,6 +139,9 @@ main {
 			color:rgb(188,181,171);
 			float:left;
 		}
+		div.advantagesWord:hover{
+			color:rgb(245, 235, 223);
+		}
 		div.advantage{
 			width:200px;
 			height:200px;
