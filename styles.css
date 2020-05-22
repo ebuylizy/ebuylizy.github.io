@@ -219,7 +219,8 @@ main {
 	}
 		div.teaMap h3{
 			color: rgb(188,181,171);
-		    font-size: 25px;
+		    font-size: 30px;
+		    font-weight: 400;
 		    margin: 0;
 		    padding: 15px 0 15px 35px;
 		    font-family: philosopher;
