@@ -151,7 +151,7 @@ main {
     		margin: 35px 40px;
     		background-image: url(advantage1photo.png);
     		background-repeat: no-repeat;
-    		background-position: center;
+    		background-position: -12px -8px;
     		text-align: center;
 		}
 		div.advantage:hover .fogging{
