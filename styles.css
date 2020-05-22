@@ -204,12 +204,15 @@ main {
 			div.article:hover div{
 				background: none;
 			}
-			div.article span{
+			div.article span.name{
 				position: relative;
 			    top: 130px;
 			    left: 15px;
 			    color:rgb(188,181,171);
 			    font-size:22px;
+			}
+			div.article span.time{
+				color:black;
 			}
 	div.teaMap{
 		height: 178px;
